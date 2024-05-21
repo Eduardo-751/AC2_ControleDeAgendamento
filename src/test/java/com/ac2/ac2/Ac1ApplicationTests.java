@@ -1,4 +1,4 @@
-package com.ac1.ac1;
+package com.ac2.ac2;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
